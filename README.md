@@ -59,15 +59,18 @@ MySQL (data cleaning, segmentation, cross-cut analysis), Power BI (dashboard, sc
 
 ## Dashboard
 ### Page 1 — Overview
-<img width="1342" height="777" alt="image" src="https://github.com/user-attachments/assets/30b7b5db-f7fb-4b3d-a72f-a2c7729a1be6" />
+<img width="1269" height="686" alt="image" src="https://github.com/user-attachments/assets/95bd2c45-7928-4da7-bc37-b207abbf7911" />
+
 
 ### Page 2 — Value Tier Breakdown
 
-<img width="1344" height="787" alt="image" src="https://github.com/user-attachments/assets/ae84a314-f5d0-40df-89bb-99a239aedc88" />
+<img width="1276" height="720" alt="image" src="https://github.com/user-attachments/assets/5994495e-7a39-4772-8b1f-741daeab25de" />
+
 
 ### Page 3 — Root Cause Analysis
 
-<img width="1339" height="781" alt="image" src="https://github.com/user-attachments/assets/866ed80e-7623-4970-bb1e-2a95c7062693" />
+<img width="1276" height="724" alt="image" src="https://github.com/user-attachments/assets/e88e70da-b502-414a-87e7-259894428115" />
+
 
 ### Page 4 — Recommendation & Financial Impact
 
