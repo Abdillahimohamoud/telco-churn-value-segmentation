@@ -67,5 +67,3 @@ MySQL (data cleaning, segmentation, cross-cut analysis), Power BI (dashboard, sc
 )
 ![Recommendation & Impact](page4_recommendation.<img width="1323" height="765" alt="image" src="https://github.com/user-attachments/assets/22ed8a43-36ea-4e90-957a-b1b39ef56dad" />
 )
-
-Full interactive file: [telco_churn_analysis.pbix](telco_churn_analysis.pbix)
