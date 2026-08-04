@@ -59,7 +59,7 @@ MySQL (data cleaning, segmentation, cross-cut analysis), Power BI (dashboard, sc
 
 ## Dashboard
 ### Page 1 — Overview
-!page1_overview.<img width="1342" height="777" alt="image" src="https://github.com/user-attachments/assets/30b7b5db-f7fb-4b3d-a72f-a2c7729a1be6" />
+<img width="1342" height="777" alt="image" src="https://github.com/user-attachments/assets/30b7b5db-f7fb-4b3d-a72f-a2c7729a1be6" />
 ### page2_value_tiers
 ![Value Tier Breakdown](page2_value_tiers.<img width="1344" height="787" alt="image" src="https://github.com/user-attachments/assets/ae84a314-f5d0-40df-89bb-99a239aedc88" />
 )
