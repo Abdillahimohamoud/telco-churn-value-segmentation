@@ -54,7 +54,7 @@ If a targeted retention campaign recovered 10–20% of the month-to-month, elect
 
 ## Tools Used
 
-MySQL (data cleaning, segmentation, cross-cut analysis). Power BI dashboard in progress.
+MySQL (data cleaning, segmentation, cross-cut analysis), Power BI (dashboard, screenshots below.
 
 
 ## Dashboard
