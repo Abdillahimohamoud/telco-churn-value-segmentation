@@ -71,5 +71,6 @@ MySQL (data cleaning, segmentation, cross-cut analysis), Power BI (dashboard, sc
 
 ### Page 4 — Recommendation & Financial Impact
 
-<img width="1323" height="765" alt="image" src="https://github.com/user-attachments/assets/22ed8a43-36ea-4e90-957a-b1b39ef56dad" />
+<<img width="1174" height="714" alt="image" src="https://github.com/user-attachments/assets/7b1b12eb-b451-4461-b122-e6c76d23cc37" />
+" />
 
