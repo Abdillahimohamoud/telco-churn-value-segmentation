@@ -61,8 +61,11 @@ MySQL (data cleaning, segmentation, cross-cut analysis). Power BI dashboard in p
 
 ![Overview](page1_overview.<img width="1342" height="777" alt="image" src="https://github.com/user-attachments/assets/30b7b5db-f7fb-4b3d-a72f-a2c7729a1be6" />
 )
-![Value Tier Breakdown](page2_value_tiers.png)
-![Root Cause Analysis](page3_root_cause.png)
-![Recommendation & Impact](page4_recommendation.png)
+![Value Tier Breakdown](page2_value_tiers.<img width="1344" height="787" alt="image" src="https://github.com/user-attachments/assets/ae84a314-f5d0-40df-89bb-99a239aedc88" />
+)
+![Root Cause Analysis](page3_root_cause.<img width="1339" height="781" alt="image" src="https://github.com/user-attachments/assets/866ed80e-7623-4970-bb1e-2a95c7062693" />
+)
+![Recommendation & Impact](page4_recommendation.<img width="1323" height="765" alt="image" src="https://github.com/user-attachments/assets/22ed8a43-36ea-4e90-957a-b1b39ef56dad" />
+)
 
 Full interactive file: [telco_churn_analysis.pbix](telco_churn_analysis.pbix)
