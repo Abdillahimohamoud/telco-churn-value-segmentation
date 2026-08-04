@@ -59,8 +59,8 @@ MySQL (data cleaning, segmentation, cross-cut analysis). Power BI dashboard in p
 
 ## Dashboard
 
-![Overview]<img width="1333" height="765" alt="image" src="https://github.com/user-attachments/assets/a62682df-aae0-4d51-a47b-7ce34a93de94" />
-
+![Overview](page1_overview.<img width="1342" height="777" alt="image" src="https://github.com/user-attachments/assets/30b7b5db-f7fb-4b3d-a72f-a2c7729a1be6" />
+)
 ![Value Tier Breakdown](page2_value_tiers.png)
 ![Root Cause Analysis](page3_root_cause.png)
 ![Recommendation & Impact](page4_recommendation.png)
