@@ -66,9 +66,10 @@ MySQL (data cleaning, segmentation, cross-cut analysis), Power BI (dashboard, sc
 <img width="1276" height="720" alt="image" src="https://github.com/user-attachments/assets/5994495e-7a39-4772-8b1f-741daeab25de" />
 
 
-### Page 3 — Root Cause Analysis
+### Page 3 — Revenue Risk Breakdown
 
-<img width="1276" height="724" alt="image" src="https://github.com/user-attachments/assets/e88e70da-b502-414a-87e7-259894428115" />
+<img width="1260" height="700" alt="image" src="https://github.com/user-attachments/assets/aeb74824-775a-4125-91de-4e2782bd469e" />
+
 
 
 ### Page 4 — Recommendation & Financial Impact
