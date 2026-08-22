@@ -1,4 +1,4 @@
-# Telco Customer Churn — Value-Based Segmentation Analysis
+# Telco Customer Churn: Value-Based Segmentation Analysis
 
 ## Business Problem
 
