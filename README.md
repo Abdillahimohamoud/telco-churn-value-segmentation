@@ -57,22 +57,22 @@ If a targeted retention campaign recovered 10–20% of the month-to-month, elect
 MySQL (data cleaning, segmentation, cross-cut analysis), Power BI (dashboard, screenshots below)
 
 ## Dashboard
-### Page 1 — Overview
+### Page 1: Overview
 <img width="1269" height="686" alt="image" src="https://github.com/user-attachments/assets/95bd2c45-7928-4da7-bc37-b207abbf7911" />
 
 
-### Page 2 — Value Tier Breakdown
+### Page 2: Value Tier Breakdown
 
 <img width="1276" height="720" alt="image" src="https://github.com/user-attachments/assets/5994495e-7a39-4772-8b1f-741daeab25de" />
 
 
-### Page 3 — Revenue Risk Breakdown
+### Page 3: Revenue Risk Breakdown
 
 <img width="1260" height="700" alt="image" src="https://github.com/user-attachments/assets/aeb74824-775a-4125-91de-4e2782bd469e" />
 
 
 
-### Page 4 — Recommendation & Financial Impact
+### Page 4: Recommendation & Financial Impact
 
 <img width="1174" height="714" alt="image" src="https://github.com/user-attachments/assets/7b1b12eb-b451-4461-b122-e6c76d23cc37" />
 
